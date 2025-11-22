@@ -6,7 +6,7 @@
 
 <div align="center">
    <h2>🪪 About me </h2>
-    <p> I'm an inspiring Software Enginner specializing in Full Stack Development. I enjoy building solutions to problems I have, as well as customizing my technology experience. </p>
+    <p> I'm an aspiring Software Enginner specializing in Full Stack Development. I enjoy building solutions to problems I have, as well as customizing my technology experience. </p>
 </div>
 
 <div align="center">
