@@ -42,15 +42,15 @@
     <p> Dive into the logisitcs of my github activity. Im very active and plan to for a very long time! </p>
     <table align="center" width="100%" height="100%" >
         <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruzjuan298&theme=github_dark" alt="Juans GitHub Stats"/></td>   
-           <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=cruzjuan298&theme=merko" alt="Juans Contribution Streak"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancruzfl&theme=github_dark" alt="Juans GitHub Stats"/></td>   
+           <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=juancruzfl&theme=merko" alt="Juans Contribution Streak"/></td>
         </tr>
      </table>
      <table align="center" width="100%" height="100%" >
         <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cruzjuan298&theme=github_dark&utcOffset=10" alt="Juans GitHub Stats"/>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cruzjuan298&theme=github_dark" alt="Juans GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cruzjuan298&theme=github_dark" alt="Juans GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juancruzfl&theme=github_dark&utcOffset=10" alt="Juans GitHub Stats"/>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juancruzfl&theme=github_dark" alt="Juans GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juancruzfl&theme=github_dark" alt="Juans GitHub Stats"/></td>
         </tr>
      </table>
 </div>
